@@ -1,6 +1,7 @@
 # Projeto IENA
 Gerenciamento de frequências de membros nas celulas.
 O sistema consiste em um cadastro de usuários, divididos em células, cadatrando membros as suas celulas.
+De modo geral o sistema é para o gerenciamento de celulas, cadastro de membro. para ter maior gerenciamento de membros em suas celulas.
 
 # Get Started
 
@@ -17,6 +18,12 @@ __requisitos__
 - gem 'turbolinks', '~> 5'
 - gem 'jbuilder', '~> 2.5'
 - gem 'bcrypt', '~> 3.1.7'
+
+# Instalação
+Para instalar as dependencias do ruby on rails basta da o seguinte comando.
+```
+bundle install
+```
 
 # Sobre Projeto
 
